@@ -1,7 +1,7 @@
 import React from "react"
-import Img1 from "../../assets/toprated/toprated1.png"
-import Img2 from "../../assets/toprated/toprated2.png"
-import Img3 from "../../assets/toprated/toprated3.png"
+import Img1 from "../../../public/assets/toprated/toprated1.png"
+import Img2 from "../../../public/assets/toprated/toprated2.png"
+import Img3 from "../../../public/assets/toprated/toprated3.png"
 import { FaStar } from "react-icons/fa"
 
 const ProductsData = [

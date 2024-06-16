@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react"
-import Logo from "../../assets/Logo.png"
+import Logo from "../../../public/assets/Logo.png"
 import { IoMdSearch } from "react-icons/io"
 import { FaCartShopping } from "react-icons/fa6"
 import { FaCaretDown } from "react-icons/fa"

@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react"
-import LightButton from "../../assets/website/light.png"
-import DarkButton from "../../assets/website/moon.png"
+import LightButton from "../../../public/assets/website/light.png"
+import DarkButton from "../../../public/assets/website/moon.png"
 
 const DarkMode = () => {
   const [theme, setTheme] = React.useState(

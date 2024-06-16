@@ -1,6 +1,6 @@
 import React from "react"
-import footerLogo from "../../assets/Logo.png"
-import Banner from "../../assets/banner/banner-footer.jpg"
+import footerLogo from "../../../public/assets/Logo.png"
+import Banner from "../../../public/assets/banner/banner-footer.jpg"
 import {
   FaFacebook,
   FaInstagram,

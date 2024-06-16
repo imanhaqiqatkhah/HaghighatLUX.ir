@@ -1,8 +1,8 @@
 import React from "react"
 import App from "../../App"
-import Image1 from "../../assets/hero/flyingo.png"
-import Image2 from "../../assets/hero/aircraft.png"
-import Image3 from "../../assets/hero/travel.png"
+import Image1 from "../../../public/assets/hero/flyingo.png"
+import Image2 from "../../../public/assets/hero/aircraft.png"
+import Image3 from "../../../public/assets/hero/travel.png"
 import Slider from "react-slick"
 import { CiTextAlignRight } from "react-icons/ci"
 

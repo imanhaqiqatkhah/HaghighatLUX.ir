@@ -1,9 +1,9 @@
 import React from "react"
 import Slider from "react-slick"
-import Comment1 from "../../assets/comment/comment1.jpg"
-import Comment2 from "../../assets/comment/comment2.jpg"
-import Comment3 from "../../assets/comment/comment3.jpg"
-import Comment4 from "../../assets/comment/comment4.jpg"
+import Comment1 from "../../../public/assets/comment/comment1.jpg"
+import Comment2 from "../../../public/assets/comment/comment2.jpg"
+import Comment3 from "../../../public/assets/comment/comment3.jpg"
+import Comment4 from "../../../public/assets/comment/comment4.jpg"
 
 const TestimonialData = [
   {
